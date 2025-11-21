@@ -2,7 +2,7 @@
 
 ### 💻 Full-Stack Developer | Cloud Enthusiast | Software Engineering Student
 
-I'm a software engineering student based in Johannesburg, South Africa 🇿🇦, with a deep passion for cloud technologies and full-stack development. I love exploring how platforms like AWS and Azure can scale and secure modern applications. Whether it's deploying APIs, automating infrastructure, or building intuitive user interfaces, I enjoy solving problems that make life easier through code.
+I'm a software engineering student based in Johannesburg, South Africa, with a deep passion for cloud technologies and full-stack development. I love exploring how platforms like AWS and Azure can scale and secure modern applications. Whether it's deploying APIs, automating infrastructure, or building intuitive user interfaces, I enjoy solving problems that make life easier through code.
 
 ---
 
